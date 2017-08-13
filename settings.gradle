@@ -1,0 +1,3 @@
+rootProject.name = 'repoall-server'
+include 'repoall-rest'
+
